@@ -1,8 +1,8 @@
 var chessBoard = document.getElementById("chessBoard");
 
-$("#testButton").on("click", function () {
-    console.log("test")
-})
+// $("#testButton").on("click", function () {
+//     console.log("test")
+// })
 
 function clickBoard(cell) {
     console.log("click")
